@@ -3,6 +3,7 @@ import logo from '../image/VTAAA.png';
 import flag from '../image/usflag.png';
 import flag2 from '../image/hoveridn.png';
 import { FaChevronDown } from 'react-icons/fa';
+import './Navbar.css';
 
 const Navbar = () => {
     return (
