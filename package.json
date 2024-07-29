@@ -1,5 +1,6 @@
 {
   "name": "avt",
+  "homepage": "https://visualtechasia.com/WebTest/vtas-main",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
